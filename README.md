@@ -1,2 +1,7 @@
 # hello-world
-Just another repository _ GitHub Guides _ HelloWorld _ 1st Try @ this Coding stuff 14-07-18
+
+1st Try
+
+this coding stuff is gonna take some getting used to
+1/2 a century old hope i can get the hang of this
+
